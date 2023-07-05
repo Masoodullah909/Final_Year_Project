@@ -31,7 +31,7 @@ pickleshare==0.7.5
 Pillow==9.5.0
 pip==23.1.2
 pip-tools==6.14.0
-plotly==4.14.3
+plotly==5.14.0
 platformdirs==3.5.0
 prompt-toolkit==3.0.38
 psutil==5.9.5
